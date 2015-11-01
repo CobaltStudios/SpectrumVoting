@@ -12,6 +12,7 @@ public class SpectrumVoting extends JavaPlugin implements SpectrumPlugin {
     @Override
     public void onEnable() {
         CoreController.registerPlugin("SpectrumVoting", this);
+        CoreController.getLogger().info("Starting SpectrumVoting...");
     }
 
     @Override
