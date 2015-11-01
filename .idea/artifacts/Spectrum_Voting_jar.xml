@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spectrum Voting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spectrum_Voting_jar</output-path>
+    <root id="archive" name="Spectrum Voting.jar">
+      <element id="module-output" name="Spectrum Voting" />
+      <element id="module-output" name="Spectrum Core" />
+    </root>
+  </artifact>
+</component>
