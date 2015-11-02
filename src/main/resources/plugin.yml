@@ -1,0 +1,7 @@
+name: SpectrumVoting
+main: net.spectrumnation.spectrumvoting.SpectrumVoting
+version: 1.0-SNAPSHOT
+author: SirTidez
+commands:
+    voteredeem:
+        usage: /voteredeem

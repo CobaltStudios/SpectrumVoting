@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spectrum Voting Listener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spectrum_Voting_Listener_jar</output-path>
+    <root id="archive" name="Spectrum Voting Listener.jar">
+      <element id="module-output" name="Spectrum Voting Listener" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/bungeecord-api-1.8-20151026.100147-96.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
