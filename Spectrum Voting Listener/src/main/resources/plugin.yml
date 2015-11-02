@@ -1,0 +1,4 @@
+name: SpectrumVotingListener
+main: net.spectrumnation.SpectrumVotingListener
+version: 1.0-SNAPSHOT
+author: SirTidez
